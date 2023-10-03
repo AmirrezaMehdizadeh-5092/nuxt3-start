@@ -1,3 +1,10 @@
+# Nuxt3-start
+
+I have been planning to start Next for a while and finally I created a simple project with Next 3.
+
+use axios for simple fetch data . 
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
